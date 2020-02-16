@@ -1,0 +1,877 @@
+AL East
+Toronto Blue Jays
+Hitters
+Danny Jensen 7
+Reese McGuire 8
+Travis Shaw 12
+Cavan Biggio 18
+Bo Bichette 15
+Vladmir Guerrero Jr. 14
+Brandon Drury 4
+Rowdy Tellez 5
+Teoscar Hernandez 7
+Randal Grichuk 10
+Lourdes Gurriel Jr. 8
+Derek Fisher 3
+Billy McKinney 4
+Pitchers
+Hyun-Jin Ryu 49
+Tanner Roark 35
+Matt Shoemaker 22
+Chase Anderson 30
+Ken Giles 11
+Wilmer Font 4
+Anthony Bass 5
+Shun Yamaguchi 20
+Jacob Waguespack 9
+Anthony Kay 1
+Jordan Romano 0
+Sam Gaviglio 9
+Sean Reid-Foley 2
+Baltimore Orioles
+Hitters
+Pedro Severino 4
+Chance Sisco 4
+Chris Davis -1
+Hanser Alberto 10
+Jose Iglesias 12
+Rio Ruiz 4
+Renato Nunez 9
+Stevie Wilkerson 0
+Richard Urena 3
+Trey Mancini 14
+Austin Hays 5
+Anthony Santander 6
+Dwight Smith Jr. 1
+Pitchers
+	
+
+John Means 40
+Alex Cobb 30
+Kohl Stewart 6
+Asher Wojciechowski 6
+Keegan Akin 6
+Mychal Givens 10
+Hunter Harvey 0
+Shawn Armstrong 3
+Miguel Castro 8
+Richard Bleier 6
+Paul Fry 4
+Brandon Bailey 5
+Michael Rucker 4
+Tampa Bay Rays
+Hitters
+Mike Zunino 9
+Ji-Man Choi 10
+Jose Martinez 7
+Brandon Lowe 20
+Joey Wendle 15
+Willy Adames 20
+Yandy Diaz 8
+Kevin Kiermaier 19
+Austin Meadows 15
+Hunter Renfroe 15
+Yoshitomo Tsutsugo 16
+Randy Arozarena 6
+Michael Perez 5
+Pitchers
+Blake Snell 41
+Tyler Glasnow 24
+Charlie Morton 52
+Ryan Yarbrough 25
+Yonny Chirinos 22
+Emilio Pagan 10
+Nick Anderson 13
+Diego Castillo 9
+Jose Alvarado 6
+Oliver Drake 6
+Colin Poche 5
+Chaz Roe 6
+Brendan McKay 4
+Boston Red Sox
+Hitters
+Christian Vazquez 8
+Kevin Plawecki 6
+Michael Chavis 7
+Jose Peraza 4
+Xander Bogaerts 25
+Rafael Devers 18
+Andrew Benintendi 17
+Jackie Bradley Jr. 15
+Mookie Betts 46
+JD Martinez 26
+Bobby Dalbec 8
+Marco Hernandez 3
+Jonathan Arauz 5
+Pitchers
+Chris Sale 63
+Eduardo Rodriguez 51
+Nathan Eovaldi 11 
+Martin Perez 13
+Brandon Workman 11
+Matt Barnes 11
+Ryan Brasier 6
+Heath Hembree 5
+Darwinzon Hernandez 3
+Josh Taylor 8
+Marcus Walden 10
+David Price 42
+Brian Johnson 6
+New York Yankees
+Hitters
+Gary Sanchez 18
+Luke Voit 12
+DJ LeMahieu 25
+Gleyber Torres 21
+Gio Urshela 10
+Brett Gardner 23
+Aaron Judge 31
+Giancarlo Stanton 30
+Kyle Higashioka 2
+Mike Ford 10
+Mike Tauchman 9
+Clint Frazier 3
+Miguel Andujar 15
+Pitchers
+Gerrit Cole 77
+Masahiro Tanaka 37
+James Paxton 36
+Luis Severino 59
+Zack Britton 10
+Aroldis Chapman 16
+Chad Green 13
+Tommy Kahnle 7
+Adam Ottavino 13
+Domingo German 18
+JA Happ 31
+Jonathan Loaisiga 2
+Luis Cessa 6
+AL Central
+Cleveland Indians
+Hitters
+Roberto Perez 12
+Carlos Santana 21
+Cesar Hernandez 14
+Francisco Lindor 34
+Jose Ramirez 31
+Oscar Mercado 15
+Franmil Reyes 8
+Jake Bauers 3
+Yu Chang 2
+Mike Freeman 4
+Sandy Leon 2
+Greg Allen 5
+Jordan Luplow 8
+Pitchers
+Carlos Carrasco 24
+Mike Clevinger 49
+Shane Bieber 58
+Zach Plesac 19
+Aaron Civale 15
+Brad Hand 12
+Nick Wittgren 7
+Adam Cimber 7
+Oliver Perez 6
+Adam Plutko 8
+Emmanuel Clase 6
+James Karinchak 0
+Jefry Rodriguez 3
+Kansas City Royals
+Hitters
+Salvador Perez 17
+Ryan O’Hearn 2
+Nicky Lopez 4
+Adalberto Mondesi 14
+Maikel Franco 2
+Hunter Dozier 12
+Humberto Arteaga 1
+Matt Reynolds 2
+Whit Merrifield 26
+Jorge Soler 13
+Bubba Starling 0
+Brett Phillips 6
+Alex Gordon 12
+Pitchers
+Brad Keller 40
+Danny Duffy 24
+Jakob Junis 23
+Mike Montgomery 13
+Glenn Sparkman 9
+Ian Kennedy 9
+Scott Barlow 10
+Jorge Lopez 2
+Tim Hill 4
+Jesse Hahn 2
+Kyle Zimmer 0
+Kevin McCarthy 7
+Randy Rosario 3
+Detroit Tigers
+Hitters
+Austin Romine 6
+Grayson Greiner 1
+CJ Cron 11
+Jonathan Schoop 15
+Niko Goodrum 11
+Dawel Lugo 2
+Jeimer Candelario 9
+Harold Castro 2
+Willi Castro 0
+Jacoby Jones 6
+Christin Stewart 1
+Victor Reyes 5
+Miguel Cabrera 11
+Pitchers
+Matthew Boyd 38
+Jordan Zimmermann 13
+Spencer Turnbull 32
+Ivan Nova 31
+Daniel Norris 21
+Joe Jimenez 5
+Buck Farmer 8
+Gregory Soto 4
+Zack Godley 8
+Alex Wilson 4
+Jose Cisnero 3
+Bryan Garcia 1
+Rony Garcia 6
+Minnesota Twins
+Hitters
+Mitch Garver 16
+Alex Avila 10
+Willians Astudillo 6
+Miguel Sano 18
+Marwin Gonzalez 15
+Luis Arraez 13
+Ehire Adrianza 7
+Jorge Polanco 21
+Josh Donaldson 35
+Nelson Cruz 23
+Max Kepler 20
+Byron Buxton 21
+Eddie Rosario 16
+Pitchers
+Jose Berrios 50
+Jake Odorizzi 34
+Homer Bailey 14
+Rich Hill 22
+Michael Pineda 26
+Randy Dobnak 9
+Devin Smeltzer 8
+Brusdar Graterol 5
+Tyler Clippard 10
+Tyler Duffey 7
+Zack Littell 5
+Trevor May 8
+Taylor Rogers 15
+Sergio Romo 8
+Chicago White Sox
+Hitters
+Yasmani Grandal 17
+James McCann 13
+Jose Abreu 18
+Leury Garcia 9
+Nick Madrigal 6
+Tim Anderson 18
+Yoan Moncada 20
+Eloy Jimenez 11
+Luis Robert 9
+Nomar Mazara 7
+Edwin Encarnacion 17
+Zack Collins 2
+Danny Mendick 5
+Pitchers
+Lucas Giolito 37
+Dallas Keuchel 31
+Gio Gonzalez 21
+Dylan Cease 6
+Reynaldo Lopez 26
+Alex Colome 10
+Aaron Bummer 11
+Steve Cishek 12
+Kelvin Herrera 6
+Jace Fry 5
+Evan Marshall 6
+Jimmy Cordero 4
+Michael Kopech 3
+AL West
+Los Angeles Angels
+Hitters
+Max Stassi 1
+Jason Castro 11
+Albert Pujols 9
+Tommy La Stella 11
+David Fletcher 19
+Andrelton Simmons 26
+Anthony Rendon 33
+Justin Upton 24
+Mike Trout 50
+Brian Goodwin 9
+Jo Adell 9
+Michael Hermosillo 2
+Shohei Ohtani 17
+Pitchers
+Andrew Heaney 19
+Griffin Canning 14
+Dylan Bundy 26
+Julio Teheran 35
+Hansel Robles 11
+Ty Buttrey 10
+Keynan Middleton 3
+Noe Ramirez 8
+Justin Anderson 5
+Shohei Ohtani 16
+Cam Bedrosian 7
+Luke Bard 3
+Parker Markel 0
+Houston Astros
+Hitters
+Martin Maldonado 8
+Dustin Garneau 6
+Yuli Gurriel 18
+Jose Altuve 30
+Carlos Correa 17
+Alex Bregman 41
+Aledmys Diaz 9
+Michael Brantley 23
+George Springer 29
+Josh Reddick 14
+Kyle Tucker 3
+Yordan Alvarez 24
+Garrett Stubbs 3
+Pitchers
+Justin Verlander 90
+Zack Greinke 77
+Lance McCullers Jr 24
+Jose Urquidy 17
+Brad Peacock 15
+Roberto Osuna 13
+Ryan Pressly 11
+Joe Smith 6
+Josh James 7
+Joe Biagini 4
+Chris Devenski 8
+Bryan Abreu 5
+Blake Taylor 7
+Oakland Athletics
+Hitters
+Sean Murphy 8
+Matt Olson 27
+Franklin Barreto 1
+Jorge Mateo 6
+Marcus Semien 31
+Matt Chapman 38
+Chad Pinder 12
+Ramon Laureano 23
+Mark Canha 18
+Stephen Piscotty 11
+Robbie Grossman 9
+Khris Davis 11
+Vimeal Machin 6
+Pitchers
+Sean Manaea 36
+Frankie Montas 16
+Jesus Luzardo 4
+Mike Fiers 36
+AJ Puk 3
+Liam Hendriks 16
+Lou Trivino 7
+Yusmeiro Petit 16
+Jake Diekman 6
+Joakim Soria 9
+Daniel Mengden 11
+Chris Bassitt 20
+JB Wendelken 5
+Seattle Mariners
+Hitters
+Tom Murphy 9
+Austin Nola 10
+Evan White 6
+Shed Long 3
+Dee Gordon 9
+JP Crawford 7
+Kyle Seager 15
+Daniel Vogelbach 7
+Dylan Moore 4
+Mitch Haniger 25
+Mallex Smith 11
+Kyle Lewis 6
+Jake Fraley -2
+Pitchers
+Marco Gonzales 41
+Yusei Kikuchi 13
+Kendall Graveman 19
+Justus Sheffield 5
+Justin Dunn 4
+Matt Magill 5
+Sam Tuivailala 5
+Erik Swanson 2
+Carl Edwards Jr 4
+Brandon Brennan 5
+Dan Altavilla 3
+Zac Grotz 4
+Taylor Guilbeau 2
+Texas Rangers
+Hitters
+Robinson Chirinos 18
+Jeff Mathis 0
+Ronald Guzman 5
+Rougned Odor 7
+Elvis Andrus 16
+Todd Frazier 16
+Willie Calhoun 4
+Danny Santana 7
+Joey Gallo 24
+Scott Heineman 4
+Shin-Soo Choo 15
+Isiah Kiner-Falefa 6
+Sam Travis 1
+Pitchers
+Mike Minor 69
+Lance Lynn 64
+Corey Kluber 78
+Kyle Gibson 26
+Jordan Lyles 16
+Jose Leclerc 13
+Rafael Montero 5
+Jesse Chavez 11
+Joely Rodriguez 1
+Brett Martin 8
+Jeffrey Springs 4
+Luke Farrell 2
+Nick Goody 4
+NL East
+Atlanta Braves
+Hitters
+Travis d’Arnaud 8
+Tyler Flowers 7
+Freddie Freeman 29
+Ozzie Albies 25
+Dansby Swanson 9
+Johan Camargo 9
+Charlie Culberson 5
+Adeiny Hechavarria 8
+Ronald Acuna Jr 29
+Ender Inciarte 21
+Marcell Ozuna 20
+Nick Markakis 12
+Adam Duvall 12
+Pitchers
+Mike Soroka 71 0
+Mike Foltynewicz 25 -1
+Max Fried 29 2
+Cole Hamels 40 2
+Mark Melancon 9
+Will Smith 12
+Shane Greene 9
+Luke Jackson 7
+Darren O’Day 7
+Chris Martin 8
+Jacob Webb 5
+Kyle Wright 0
+Sean Newcomb 13
+Miami Marlins
+Hitters
+Jorge Alfaro 9
+Francisco Cervelli 12
+Jesus Aguilar 10
+Garrett Cooper 11
+Isan Diaz 0
+Miguel Rojas 14
+Jonathan Villar 17
+Corey Dickerson 15
+Brian Anderson 23
+Harold Ramirez 4
+Lewis Brinson -3
+Magneuris Sierra 2
+Jon Berti 11
+Pitchers
+Sandy Alcantara 34 0
+Caleb Smith 17 3
+Pablo Lopez 13 2
+Jordan Yamamoto 12 0
+Elieser Hernandez 5 0
+Drew Steckenrider 3
+Jarlin Garcia 6
+Ryne Stanek 10
+Adam Conley 2
+Sterling Sharp 7
+Jeff Brigham 3
+Jose Urena 12 0
+Yimi Garcia 4
+Brandon Kintzler 9
+New York Mets
+Hitters
+Wilson Ramos 13
+Pete Alonso 30
+Dominic Smith 3
+Robinson Cano 16
+Amed Rosario 9
+Jeff McNeil 23
+Michael Conforto 21
+Brandon Nimmo 15
+JD Davis 5
+Jake Marisnick 11
+Yoenis Cespedes 15
+Jed Lowrie 20
+Pitchers
+Jacob deGrom 98 5
+Noah Syndergaard 55 2
+Marcus Stroman 45
+Michael Wacha 15 0
+Rick Porcello 32
+Steven Matz 24 3
+Edwin Diaz 9
+Seth Lugo 17
+Dellin Betances 14
+Jeurys Familia 8
+Justin Wilson 8
+Brad Brach 7
+Robert Gsellman 5
+Washington Nationals
+Hitters
+Kurt Suzuki 11
+Yan Gomes 12
+Eric Thames 10
+Howie Kendrick 13
+Ryan Zimmerman 12
+Starlin Castro 13
+Trea Turner 20
+Asdrubal Cabrera 11
+Juan Soto 24
+Victor Robles 20
+Adam Eaton 16
+Michael Taylor 9
+Carter Kieboom -2
+Pitchers
+Max Scherzer 90 3
+Stephen Strasburg 71 2
+Patrick Corbin 65 1
+Anibal Sanchez 34 0
+Sean Doolittle 11
+Will Harris 11
+Daniel Hudson 8
+Tanner Rainey 0
+Wander Suero 10
+Hunter Strickland 5
+Roenis Elias 6
+Joe Ross 8
+Austin Voth 8
+Philadelphia Phillies
+Hitters
+JT Realmuto 25
+Andrew Knapp 3
+Rhys Hoskins 11
+Jean Segura 17
+Didi Gregorious 17
+Scott Kingery 9
+Josh Harrison 12
+Phil Gosselin 1
+Andrew McCutchen 14
+Adam Haseley 12
+Bryce Harper 22
+Jay Bruce 8
+Roman Quinn 4
+Pitchers
+Aaron Nola 80 0
+Zack Wheeler 49 4
+Jake Arrieta 27 2
+Zach Eflin 24 1
+Vince Velasquez 15 4
+Hector Neris 11
+Seranthony Dominguez 7
+Jose Alvarez 8
+Victor Arano 11
+Adam Morgan 5
+Ranger Suarez 5
+Nick Pivetta 12
+Robert Stock 3
+Milwaukee Brewers
+Hitters
+Omar Narvaez 13
+Manny Pina 10
+Justin Smoak 11
+Ryan Braun 14
+Keston Hiura 15
+Orlando Arcia 5
+Eric Sogard 13
+Jedd Gyorko 17
+Avisail Garcia 16
+Lorenzo Cain 27
+Christian Yelich 38
+Ben Gamel 7
+Luis Urias 7
+Pitchers
+Brandon Woodruff 23 5
+Adrian Houser 19 0
+Brett Anderson 28 2
+Josh Lindblom 8
+Eric Lauer 17 0
+Josh Hader 19
+Alex Claudio 10
+Corey Knebel 13
+Bobby Wahl 1
+Brent Suter 10
+Corbin Burnes 1
+Freddy Peralta 7
+Ray Black 0
+St. Louis Cardinals
+Hitters
+Yadier Molina 13
+Paul Goldschmidt 27
+Kolten Wong 22
+Paul DeJong 23
+Matt Carpenter 18
+Tommy Edman 24
+Dexter Fowler 14
+Harrison Bader 16
+Lane Thomas 10
+Dylan Carlson 6
+Tyler O’Neill 7
+Andrew Knizner 5
+Justin Williams 5
+Pitchers
+Jack Flaherty 60 2
+Dakota Hudson 34 0
+Miles Mikolas 43 1
+Adam Wainwright 26 4
+Andrew Miller 4
+Giovanny Gallegos 12
+Ryan Helsley 5
+John Brebbia 9
+Tyler Webb 4
+Jordan Hicks 6
+John Gant 7
+Carlos Martinez 13
+Kwang-Hyun Kim 10
+Chicago Cubs
+Hitters
+Victor Caratini 6
+Willson Conteras 20
+Anthony Rizzo 23
+David Bote 11
+Nico Hoerner 4
+Javier Baez 29
+Kris Bryant 24
+Jason Heyward 15
+Kyle Schwarber 12
+Daniel Descalso 2
+Albert Almora Jr 5
+Ian Happ 10
+Robel Garcia 4
+Pitchers
+Yu Darvish 42
+Kyle Hendricks 52 2
+Jon Lester 34 3
+Jose Quintana 33
+Tyler Chatwood 10
+Craig Kimbrel 18
+Kyle Ryan 7
+Rowan Wick 6
+Adbert Alzolay 0
+Jharel Cotton 4
+Dillon Maples 1
+Trevor Megill 6
+Pittsburgh Pirates
+Hitters
+Jacob Stallings 11
+Luke Maile 3
+Josh Bell 14
+Adam Frazier 17
+Kevin Newman 14
+Cole Tucker 2
+Colin Moran 5
+Erik Gonzalez 5
+Bryan Reynolds 24
+Gregory Polanco 10
+Guillermo Heredia 5
+Jason Martin 1
+Jose Osuna 3
+Pitchers
+Joe Musgrove 27
+Trevor Williams 27
+Chris Archer 20
+Mitch Keller 5
+Steven Brault 9
+Keone Kela 7
+Kyle Crick 6
+Richard Rodriguez 9
+Michael Feliz 4
+Edgar Santana 8
+Nick Burdi 0
+Chris Stratton 2
+Clay Holmes 2
+Cincinnati Reds
+Hitters
+Tucker Barnhart 9
+Curt Casali 9
+Joey Votto 23
+Mike Moustakas 15
+Freddy Galvis 12
+Eugenio Suarez 24
+Kyle Farmer 4
+Nick Castellanos 15
+Shogo Akiyama 7
+Alex Blandino 4
+Aristides Aquino 12
+Nick Senzel 7
+Jesse Winker 7
+Michael Lorenzen 6
+Pitchers
+Luis Castillo 50
+Sonny Gray 48
+Trevor Bauer 52 
+Anthony DeSclafani 30
+Wade Miley 27
+Raisel Iglesias 12
+Michael Lorenzen 14
+Amir Garrett 6
+Robert Stephenson 5
+Lucas Sims 4
+Tyler Mahle 12
+Nate Jones 4
+Sal Romano 3
+NL West
+Arizona Diamondbacks
+Hitters
+Carson Kelly 9
+Stephen Vogt 9
+Christian Walker 12
+Jake Lamb 6
+Ketel Marte 27
+Eduardo Escobar 20
+Nick Ahmed 21
+David Peralta 18
+Kole Calhoun 13
+Josh Rojas 3
+Andy Young 6
+Kevin Cron 4
+Ildemaro Vargas 5
+Pitchers
+Madison Bumgarner 47 4
+Robbie Ray 34
+Mike Leake 32
+Luke Weaver 13
+Zac Gallen 23
+Archie Bradley 12
+Andrew Chafin 8
+Yoan Lopez 6
+Junior Guerra 10
+Kevin Ginkel 6
+Merill Kelly 22
+Alex Young 10
+Taylor Clarke 2
+Los Angeles Dodgers
+Hitters
+Will Smith 13
+Enrique Hernandez 14
+Max Muncy 26
+Gavin Lux 5
+Corey Seager 30
+Justin Turner 25
+Austin Barnes 7
+Cody Bellinger 37
+Joc Pederson 16
+AJ Pollock 14
+Chris Taylor 21
+Alex Verdugo 19
+Kyle Garlick 5
+Pitchers
+Pedro Baez 9
+Walker Buehler 41 1
+Kenley Jansen 10
+Blake Treinen 11
+Joe Kelly 5
+Clayton Kershaw 56 2
+Adam Kolarek 6
+Kenta Maeda 23
+Ross Stripling 17
+Julio Urias 13
+Alex Wood 25
+Jimmy Nelson 24
+San Francisco Giants
+Hitters
+Buster Posey 17
+Aramis Garcia 3
+Brandon Belt 14
+Mauricio Dubon 6
+Brandon Crawford 12
+Evan Longoria 19
+Mike Yastremski 18
+Alex Dickerson 8
+Steven Duggar 6
+Jaylin Davis 0
+Chris Shaw 0
+Kean Wong 0
+Donovan Solano 6
+Pitchers
+Johnny Cueto 23 2
+Jeff Samardzija 40 3
+Kevin Gausman 21 1
+Drew Smyly 14 0
+Logan Webb 7
+Tyler Beede 8
+Tony Watson 9
+Trevor Gott 6
+Shaun Anderson 5
+Wandy Peralta 2
+Sam Coonrod 3
+Tyler Rogers 6
+Jandel Gustave 3
+San Diego Padres
+Hitters
+Francisco Mejia 4
+Austin Hedges 5
+Eric Hosmer 10
+Jurickson Profar 9
+Fernando Tatis Jr 26
+Manny Machado 26
+Tommy Pham 26
+Wil Myers 10
+Trent Grisham 7
+Manuel Margot 13
+Josh Naylor 4
+Jake Cronenworth 6
+Ty France 4
+Pitchers
+Chris Paddack 32 2
+Garrett Richards 10
+Zach Davies 26 3
+Dinelson Lamet 12 2
+Joey Lucchesi 24
+Kirby Yates 13
+Drew Pomeranz 12
+Andres Munoz 4
+Craig Stammen 13
+Matt Strahm 13
+Jose Castillo 6
+Javy Guerra 0
+Michel Baez 4
+Colorado Rockies
+Hitters
+Tony Wolters 6
+Daniel Murphy 7
+Ryan McMahon 7
+Garret Hampson 4
+Trevor Story 33
+Nolan Arenado 37
+Brendan Rodgers -1
+Chris Owings 2
+Raimel Tapia 0
+David Dahl 7
+Charlie Blackmon 17
+Ian Desmond 2
+Sam Hilliard 8
+Pitchers
+German Marquez 53 4
+Jon Gray 42 2
+Kyle Freeland 31 1
+Antonio Senzatela 15
+Jeff Hoffman 5
+Chi Chi Gonzalez 7
+Tim Melville 1
+Wade Davis 5
+Scott Oberg 12
+Jairo Diaz 7
+Carlos Estevez 8
+Yency Almonte 4
+Bryan Shaw 5
