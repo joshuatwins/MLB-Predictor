@@ -3,13 +3,8 @@ from tkinter import *
 root = Tk()
 root.title("MLB Prediction program")
 
-teams=['Arizona Diamondbacks', 'Atlanta Braves', 'Baltimore Orioles', 'Boston Red Sox', 'Chicago Cubs', 'Chicago White Sox', 'Cincinnati Reds', 'Cleveland Indians', 'Colorado Rockies', 'Detroit Tigers', 'Houston Astros', 'Kansas City Royals',
-       'Los Angeles Angels', 'Los Angeles Dodgers', 'Miami Marlins', 'Milwaukee Brewers', 'Minnesota Twins', 'New York Mets', 'New York Yankees', 'Oakland Athletics', 'Philadelphia Phillies', 'Pittsburgh Pirates', 'San Diego Padres', 'San Francisco Giants',
-       'Seattle Mariners', 'St. Louis Cardinals', 'Tampa Bay Rays', 'Texas Rangers', 'Toronto Blue Jays', 'Washington Nationals']
-
 def get_players():
     pass
-
 def calculate_percentage():
     root.title(100)
     
@@ -193,12 +188,6 @@ popupMenu2.grid(row=0, column=3)
 Label(mainframe,text="Lineups:").grid(row=1, column=0)
 Label(mainframe,text="Primary Pitcherz").grid(row=10, column=0)
 
-hitters_list1=hitters[tkvar1.get()]
-pitchers_list1=pitchers[tkvar1.get()]
-
-hitters_list2=hitters[tkvar2.get()]
-pitchers_list2=pitchers[tkvar2.get()]
-
 set_up_home()
 set_up_road()
 
@@ -207,31 +196,5 @@ c=Button(mainframe,text="Calculate Percentage", command=calculate_percentage)
 b.grid(row=11, column=1)
 c.grid(row=11, column=3)
 
-
-# on change dropdown value
-def stuff():
-# link function to change dropdown
-    tkvar1.trace('w', change_dropdown)
-    tkvar2.trace('w', change_dropdown)
-    tkvar3.trace('w', change_dropdown)
-    tkvar4.trace('w', change_dropdown)
-    tkvar5.trace('w', change_dropdown)
-    tkvar6.trace('w', change_dropdown)
-    tkvar7.trace('w', change_dropdown)
-    tkvar8.trace('w', change_dropdown)
-    tkvar9.trace('w', change_dropdown)
-    tkvar10.trace('w', change_dropdown)
-    tkvar11.trace('w', change_dropdown)
-    tkvar12.trace('w', change_dropdown)
-    tkvar13.trace('w', change_dropdown)
-    tkvar14.trace('w', change_dropdown)
-    tkvar15.trace('w', change_dropdown)
-    tkvar16.trace('w', change_dropdown)
-    tkvar17.trace('w', change_dropdown)
-    tkvar18.trace('w', change_dropdown)
-    tkvar19.trace('w', change_dropdown)
-    tkvar20.trace('w', change_dropdown)
-    tkvar21.trace('w', change_dropdown)
-    tkvar22.trace('w', change_dropdown)
 
 root.mainloop()
