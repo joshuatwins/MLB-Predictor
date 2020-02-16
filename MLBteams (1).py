@@ -56,50 +56,50 @@ MLBteams1 = {'Arizona Diamondbacks', 'Atlanta Braves', 'Baltimore Orioles', 'Bos
 MLBteams2={'Arizona Diamondbacks', 'Atlanta Braves', 'Baltimore Orioles', 'Boston Red Sox', 'Chicago Cubs', 'Chicago White Sox', 'Cincinnati Reds', 'Cleveland Indians', 'Colorado Rockies', 'Detroit Tigers', 'Houston Astros', 'Kansas City Royals', 'Los Angeles Angels', 'Los Angeles Dodgers', 'Miami Marlins', 'Milwaukee Brewers', 'Minnesota Twins', 'New York Mets', 'New York Yankees', 'Oakland Athletics', 'Philadelphia Phillies', 'Pittsburgh Pirates', 'San Diego Padres', 'San Francisco Giants', 'Seattle Mariners', 'St. Louis Cardinals', 'Tampa Bay Rays', 'Texas Rangers', 'Toronto Blue Jays', 'Washington Nationals'}
 tkvar1.set('Arizona Diamondbacks') # set the default option
 tkvar2.set('Arizona Diamondbacks')
-hitters={'Arizona Diamondbacks',
+hitters={'Arizona Diamondbacks':{'Carson Kelly', 'Stephen Vogt', 'Christian Walker', 'Jake Lamb', 'Ketel Marte', 'Eduardo Escobar', 'Nick Ahmed', 'David Peralta', 'Kole Calhoun', 'Josh Rojas', 'Andy Young', 'Kevin Cron', 'Ildemaro Vargas', 'Madison Bumgarner', 'Robbie Ray', 'Mike Leake', 'Luke Weaver', 'Zac Gallen', 'Other'},
          'Atlanta Braves':{"Travis d'Arnaud", 'Tyler Flowers', 'Freddie Freeman', 'Ozzie Albies', 'Dansby Swanson', 'Johan Camargo', 'Charlie Culberson', 'Adeiny Hechavarria', 'Ronald Acuna Jr.', 'Ender Inciarte', 'Marcell Ozuna', 'Nick Markakis', 'Adam Duvall', 'Mike Soroka', 'Mike Foltynewicz', 'Max Fried', 'Cole Hamels', 'Other'},
          'Baltimore Orioles':{'Pedro Severino', 'Chance Sisco', 'Chris Davis', 'Hanser Alberto', 'Jose Iglesias', 'Rio Ruiz', 'Renato Nunez', 'Stevie Wilkerson', 'Richard Urena', 'Trey Mancini', 'Austin Hays', 'Anthony Santander', 'Dwight Smith Jr.', 'John Means', 'Alex Cobb', 'Kohl Stewart', 'Asher Wojciechowski', 'Keegan Akin', 'Other'},
          'Boston Red Sox':{'Christian Vazquez', 'Kevin Plawecki', 'Michael Chavis', 'Jose Peraza', 'Xander Bogaerts', 'Rafael Devers', 'Andrew Benintendi', 'Jackie Bradley Jr.', 'J.D. Martinez', 'Bobby Dalbec', 'Marco Hernandez', 'Jonathan Arauz', 'Chris Sale', 'Eduardo Rodriguez', 'Nathan Eovaldi', 'Martin Perez', 'Other'},
-         'Chicago Cubs',
+         'Chicago Cubs':{'Victor Caratini', 'Willson Conteras', 'Anthony Rizzo', 'David Bote', 'Nico Hoerner', 'Javier Baez', 'Kris Bryant', 'Jason Heyward', 'Kyle Schwarber', 'Daniel Descalso', 'Albert Almora Jr.', 'Ian Happ', 'Robel Garcia', 'Yu Darvish', 'Kyle Hendricks', 'Jon Lester', 'Jose Quintana', 'Other'},
          'Chicago White Sox':{'Yasmani Grandal', 'James McCann', 'Jose Abreu', 'Leury Garcia', 'Nick Madrigal', 'Tim Anderson', 'Yoan Moncada', 'Eloy Jimenez', 'Luis Robert', 'Nomar Mazara', 'Edwin Encarnacion', 'Zack Collins', 'Danny Mendick', 'Lucas Giolito', 'Dallas Keuchel', 'Gio Gonzalez', 'Dylan Cease', 'Reynaldo Lopez', 'Other'},
-         'Cincinnati Reds',
+         'Cincinnati Reds':{'Tucker Barnhart', 'Curt Casali', 'Joey Votto', 'Mike Moustakas', 'Freddy Galvis', 'Eugenio Suarez', 'Kyle Farmer', 'Nick Castellanos', 'Shogo Akiyama', 'Alex Blandino', 'Aristides Aquino', 'Nick Senzel', 'Jesse Winker', 'Michael Lorenzen', 'Luis Castillo', 'Sonny Gray', 'Trevor Bauer', 'Anthony DeSclafani', 'Wade Miley', 'Other'},
          'Cleveland Indians':{'Roberto Perez', 'Carlos Santana', 'Cesar Hernandez', 'Francisco Lindor', 'Jose Ramirez', 'Oscar Mercado', 'Franmil Reyes', 'Jake Bauers', 'Yu Chang', 'Mike Freeman', 'Sandy Leon', 'Greg Allen', 'Jordan Luplow', 'Carlos Carrasco', 'Mike Clevinger', 'Shane Bieber', 'Zach Plesac', 'Aaron Civale', 'Other'},
-         'Colorado Rockies',
+         'Colorado Rockies':{'Tony Wolters', 'Daniel Murphy', 'Ryan McMahon', 'Garret Hampson', 'Trevor Story', 'Nolan Arenado', 'Brendan Rodgers', 'Chris Owings', 'Raimel Tapia', 'David Dahl', 'Charlie Blackmon', 'Ian Desmond', 'Sam Hilliard', 'German Marquez', 'Jon Gray', 'Kyle Freeland', 'Antonio Senzatela', 'Other'},
          'Detroit Tigers':{'Austin Romine', 'Grayson Greiner', 'C.J. Cron', 'Jonathan Schoop', 'Niko Goodrum', 'Dawel Lugo' 'Jeimer Candelario', 'Harold Castro', 'Willi Castro', 'Jacoby Jones', 'Christin Stewart', 'Victor Reyes', 'Miguel Cabrera', 'Matthew Boyd', 'Jordan Zimmermann', 'Spencer Turnbull', 'Ivan Nova', 'Daniel Norris', 'Other'},
          'Houston Astros':{'Martin Maldonado', 'Dustin Garneau', 'Yuli Gurriel', 'Jose Altuve', 'Carlos Correa', 'Alex Bregman', 'Aledmys Diaz', 'Michael Brantley', 'George Springer', 'Josh Reddick', 'Kyle Tucker', 'Yordan Alvarez', 'Garrett Stubbs', 'Justin Verlander', 'Zack Grienke', 'Lance McCullers Jr.', 'Jose Urquidy', 'Other'},
          'Kansas City Royals':{'Salvador Perez', "Ryan O'Hearn", 'Nicky Lopez', 'Adalberto Mondesi', 'Maikel Franco', 'Hunter Dozier', 'Humberto Arteaga', 'Matt Reynolds', 'Whit Merrifield', 'Jorge Soler', 'Bubba Starling', 'Brett Phillips', 'Alex Gordon', 'Brad Keller', 'Danny Duffy', 'Jakob Junis', 'Mike Montgomery', 'Glenn Sparkman', 'Other'},
-         'Los Angeles Angels':{'Max Stassi', 'Jason Castro', 'Albert Pujols', 'Tommy La Stella', 'David Fletcher', 'Andrelton Simmons', 'Anthony Rendon', 'Juston Upton', 'Mike Trout', 'Brian Goodwin', 'Jo Adell', 'Michael Hermosilllo', 'Shohei Ohtani', 'Andrew Heaney', 'Griffin Canning', 'Dylan Bundy', 'Julio Teheran', 'Other'} ,
-         'Los Angeles Dodgers',
-         'Miami Marlins':{'Jorge Alfaro', 'Francisco Cervelli', 'Jesus Aguilar', 'Garrett Cooper', 'Isan Diaz', 'Miguel Rojas', 'Jonathan Villar', 'Corey Dickerson', 'Brian Anderson', 'Harold Ramirez', 'Lewis Brinson', 'Magneuris Sierra', 'Jon Berti', 'Sandy Alcantara', 'Caleb Smith', 'Pablo Lopez', 'Jordan Yamamoto', 'Elieser Hernandez', 'Other'},,
+         'Los Angeles Angels':{'Max Stassi', 'Jason Castro', 'Albert Pujols', 'Tommy La Stella', 'David Fletcher', 'Andrelton Simmons', 'Anthony Rendon', 'Juston Upton', 'Mike Trout', 'Brian Goodwin', 'Jo Adell', 'Michael Hermosilllo', 'Shohei Ohtani', 'Andrew Heaney', 'Griffin Canning', 'Dylan Bundy', 'Julio Teheran', 'Other'},
+         'Los Angeles Dodgers':{'Mookie Betts', 'Will Smith', 'Enrique Hernandez', 'Max Muncy', 'Gavin Lux', 'Corey Seager', 'Justin Turner', 'Austin Barnes', 'Cody Bellinger', 'Joc Pederson', 'A.J. Pollock', 'Chris Taylor', 'Kyle Garlick', 'Walker Buehler', 'Clayton Kershaw', 'Alex Wood', 'Jimmy Nelson', 'Julio Urias', 'Ross Stripling', 'Other'},
+         'Miami Marlins':{'Jorge Alfaro', 'Francisco Cervelli', 'Jesus Aguilar', 'Garrett Cooper', 'Isan Diaz', 'Miguel Rojas', 'Jonathan Villar', 'Corey Dickerson', 'Brian Anderson', 'Harold Ramirez', 'Lewis Brinson', 'Magneuris Sierra', 'Jon Berti', 'Sandy Alcantara', 'Caleb Smith', 'Pablo Lopez', 'Jordan Yamamoto', 'Elieser Hernandez', 'Other'},
          'Milwaukee Brewers':{'Omar Narvaez', 'Manny Pina', 'Justin Smoak', 'Ryan Braun', 'Keston Hiura', 'Orlando Arcia', 'Eric Sogard', 'Jedd Gyorko', 'Avisail Garcia', 'Lorenzo Cain', 'Christian Yelich', 'Ben Gamel', 'Luis Urias', 'Brandon Woodruff', 'Adrian Houser', 'Brett Anderson', 'Josh Lindblom', 'Eric Lauer', 'Other'},
          'Minnesota Twins':{'Mitch Garver', 'Alex Avila', 'Willians Astudillo', 'Miguel Sano', 'Marwin Gonzalez', 'Luis Arraez', 'Ehire Adrianza', 'Jorge Polanco', 'Josh Donaldson', 'Nelson Cruz', 'Max Kepler', 'Byron Buxton', 'Eddie Rosario', 'Jose Berrios', 'Jake Odorizzi', 'Homer Bailey', 'Rich Hill', 'Michael Pineda', 'Randy Dobnak', 'Devin Smeltzer', 'Kenta Maeda', 'Other'},
          'New York Mets':{'Wilson Ramos', 'Pete Alonso', 'Dominic Smith', 'Robinson Cano', 'Amed Rasario', 'Jeff McNeil', 'Michael Conforto', 'Brandon Nimmo', 'J.D. Davis', 'Jake Marisnick', 'Yoenis Cespedes', 'Jed Lowrie', 'Jacob deGrom', 'Noah Syndergaard', 'Marcus Stroman' 'Michael Wacha', 'Rick Porcello', 'Steven Matz', 'Other'},
          'New York Yankees':{'Gary Sanchez', 'Luke Voit', 'DJ LeMahieu', 'Gleyber Torres', 'Gio Urshela', 'Brett Gardner', 'Aaron Judge', 'Giancarlo Stanton', 'Kyle Higashioka', 'Mike Ford', 'Mike Tauchman', 'Clint Frazier', 'Miguel Andujar', 'Gerrit Cole', 'Masahiro Tanaka', 'James Paxton', 'Luis Severino', 'Domingo German', 'J.A. Happ', 'Other'},
          'Oakland Athletics':{'Sean Murphy', 'Matt Olson', 'Franklin Barreto', 'Jorge Mateo', 'Marcus Semien', 'Matt Chapman', 'Chad Pinder', 'Ramon Laureano', 'Mark Canha', 'Stephen Piscotty', 'Robbie Grossman', 'Khris Davis', 'Vimeal Mchin', 'Sean Manaea', 'Frankie Montas', 'Jesus Luzardo', 'Mike Fiers', 'Chris Bassitt', 'Other'},
          'Philadelphia Phillies':{'J.T. Realmuto', 'Andrew Knapp', 'Rhys Hoskins', 'Jean Segura', 'Didi Gregorious', 'Scott Kingery', 'Josh Harrison', 'Phil Gosselin', 'Andrew McCutchen', 'Adam Haseley', 'Bryce Harper', 'Jay Bruce', 'Roman Quinn', 'Aaron Nola', 'Zack Wheeler', 'Jake Arrieta', 'Zach Eflin', 'Vince Velasquez', 'Other'},
-         'Pittsburgh Pirates',
-         'San Diego Padres',
-         'San Francisco Giants',
+         'Pittsburgh Pirates':{'Jacob Stallings', 'Luke Maile', 'Josh Bell', 'Adam Frazier', 'Kevin Newman', 'Cole Tucker', 'Colin Moran', 'Erik Gonzalez', 'Bryan reynolds', 'Gregory Polanco', 'Guillermo Heredia', 'Jason Martin', 'Jose Osuna', 'Joe Musgrove', 'Trevor Williams', 'Chris Archer', 'Mitch Keller', 'Steven Brault', 'Other'},
+         'San Diego Padres':{'Francisco Mejia', 'Austin Hedges', 'Eric Hosmer', 'Jurickson Profar', 'Fernando Tatis Jr.', 'Manny Machado', 'Tommy Pham', 'Wil Myers', 'Trent Grisham', 'Manuel Margot', 'Josh Naylor', 'Jake Cronenworth', 'Ty France', 'Chris Paddack', 'Garrett Richards', 'Zach Davies', 'Dinelson Lamet', 'Joey Lucchesi', 'Other'},
+         'San Francisco Giants':{'Buster Posey', 'Aramis Garcia', 'Brandon Belt', 'Mauricio Dubon', 'Brandon Crawford', 'Evan Longoria', 'Mike Yastremski', 'Alex Dickerson', 'Steven Duggar', 'Jaylin Davis', 'Chris Shaw', 'Kean Wong', 'Donovan Solano', 'Johnny Cueto', 'Jeff Samardzija', 'Kevin Gausman', 'Drew Smyly', 'Other'},
          'Seattle Mariners':{'Tom Murphy', 'Austin Nola', 'Evan White', 'Shed Long', 'Dee Gordon', 'J.P. Crawford', 'Kyle Seager', 'Daniel Vogelbach', 'Dylan Moore', 'Mitch Haniger', 'Mallex Smith', 'Kyle Lewis', 'Jake Fraley', 'Marco Gonzales', 'Yusei Kikuchi', 'Kendall Graveman', 'Justus Sheffield', 'Justin Dunn', 'Other'},
-         'St. Louis Cardinals',
+         'St. Louis Cardinals':{'Yadier Molina', 'Paul Goldschmidt', 'Kolten Wong', 'Paul DeJong', 'Matt Carpenter', 'Tommy Edman', 'Dexter Fowler', 'Harrison Bader', 'Lane Thomas', 'Dylan Carlson', "Tyler O'Neill", 'Andrew Knizner', 'Justin Williams', 'Jack Flaherty', 'Dakota Hudson', 'Miles Mikolas', 'Adam Wainwright', 'Other'},
          'Tampa Bay Rays':{'Mike Zunino', 'Ji-Man Choi', 'Jose Martinez', 'Brandon Lowe', 'Joey Wendle', 'Willy Adames', 'Yandy Diaz', 'Kevin Kiermaier', 'Austin Meadows', 'Hunter Renfroe', 'Yoshitomo Tsutsugo', 'Randy Arozarena', 'Michael Perez', 'Blake Snell', 'Tyler Glasnow', 'Charlie Morton', 'Ryan Yarbrough', 'Yonny Chirinos', 'Other'},
          'Texas Rangers':{'Robinson Chirinos', 'Jeff Mathis', 'Ronald guzman', 'Rougned Odor', 'Elvis Andrus', 'Todd frazier', 'Willie Calhoun', 'Danny Santana', 'Joey Gallo', 'Scott Heineman', 'Shin-Soo Choo', 'Isiah Kiner-Falefa', 'Sam Travis', 'Mike Minor', 'Lance Lynn', 'Corey Kluber', 'Kyle Gibson', 'Jordan Lyles', 'Other'},
          'Toronto Blue Jays':{'Danny Jensen', 'Reese McGuire', 'Travis Shaw', 'Cavan Biggio', 'Bo Bichette', 'Vladmir Guerrero Jr.', 'Brandon Drury', 'Rowdy Tellez', 'Teoscar Hernandez', 'Randal Grichuk', 'Lourdes Gurriel Jr.', 'Derek Fisher', 'Billy McKinney', 'Hyun-Jin Ryu', 'Tanner Roark', 'Matt Shoemaker', 'Chase Anderson', 'Shun Yamaguchi', 'Other'},
          'Washington Nationals':{'Kurt Suzuki', 'Yan Gomes', 'Eric Thames', 'Howie Kendrick', 'Ryan Zimmerman', 'Starlin Castro', 'Trea Turner', 'Asdrubal Cabrera', 'Juan Soto', 'Victor robles', 'Adam Eaton', 'Michael Taylor', 'Carter Kieboom', 'Max Scherzer', 'Stephen Strasburg', 'Patrick Corbin', 'Anibal Sanchez' , 'Other'}}
-pitcher={'Arizona Diamondbacks',
+pitcher={'Arizona Diamondbacks':{'Madison Bumgarner', 'Robbie Ray', 'Mike Leake', 'Luke Weaver', 'Zac Gallen', 'Other'},
          'Atlanta Braves':{'Mike Soroka', 'Mike Foltynewicz', 'Max Fried', 'Cole Hamels', 'Other'},
-         'Baltimore Orioles': {'John Means', 'Alex Cobb', 'Kohl Stewart', 'Asher Wojciechowski', 'Keegan Akin', 'Other'}
+         'Baltimore Orioles': {'John Means', 'Alex Cobb', 'Kohl Stewart', 'Asher Wojciechowski', 'Keegan Akin', 'Other'},
          'Boston Red Sox': {'Chris Sale', 'Eduardo Rodriguez', 'Nathan Eovaldi', 'Martin Perez', 'Other'},
-         'Chicago Cubs',
+         'Chicago Cubs':{'Yu Darvish', 'Kyle Hendricks', 'Jon Lester', 'Jose Quintana', 'Other'},
          'Chicago White Sox':{'Lucas Giolito', 'Dallas Keuchel', 'Gio Gonzalez', 'Dylan Cease', 'Reynaldo Lopez', 'Other'},
-         'Cincinnati Reds',
+         'Cincinnati Reds':{'Luis Castillo', 'Sonny Gray', 'Trevor Bauer', 'Anthony DeSclafani', 'Wade Miley', 'Other'},
          'Cleveland Indians': {'Carlos Carrasco', 'Mike Clevinger', 'Shane Bieber', 'Zach Plesac', 'Aaron Civale', 'Other'},
-         'Colorado Rockies',
+         'Colorado Rockies':{'German Marquez', 'Jon Gray', 'Kyle Freeland', 'Antonio Senzatela', 'Other'},
          'Detroit Tigers':{'Matthew Boyd', 'Jordan Zimmermann', 'Spencer Turnbull', 'Ivan Nova', 'Daniel Norris', 'Other'},
          'Houston Astros':{'Justin Verlander', 'Zack Grienke', 'Lance McCullers Jr.', 'Jose Urquidy', 'Other'},
          'Kansas City Royals':{'Brad Keller', 'Danny Duffy', 'Jakob Junis', 'Mike Montgomery', 'Glenn Sparkman', 'Other'},
          'Los Angeles Angels':{'Shohei Ohtani', 'Andrew Heaney', 'Griffin Canning', 'Dylan Bundy', 'Julio Teheran', 'Other'},
-         'Los Angeles Dodgers',
+         'Los Angeles Dodgers':{'Walker Buehler', 'Clayton Kershaw', 'Alex Wood', 'Jimmy Nelson', 'Julio Urias', 'Ross Stripling', 'David Price', 'Other'},
          'Miami Marlins':{'Sandy Alcantara', 'Caleb Smith', 'Pablo Lopez', 'Jordan Yamamoto', 'Elieser Hernandez', 'Other'},
          'Milwaukee Brewers':{'Brandon Woodruff', 'Adrian Houser', 'Brett Anderson', 'Josh Lindblom', 'Eric Lauer', 'Other'},
          'Minnesota Twins':{'Jose Berrios', 'Jake Odorizzi', 'Homer Bailey', 'Rich Hill', 'Michael Pineda', 'Randy Dobnak', 'Devin Smeltzer', 'Kenta Maeda', 'Other'},
@@ -107,35 +107,23 @@ pitcher={'Arizona Diamondbacks',
          'New York Yankees':{'Gerrit Cole', 'Masahiro Tanaka', 'James Paxton', 'Luis Severino', 'Domingo German', 'J.A. Happ', 'Other'},
          'Oakland Athletics':{'Sean Manaea', 'Frankie Montas', 'Jesus Luzardo', 'Mike Fiers', 'Chris Bassitt', 'Other'},
          'Philadelphia Phillies':{ 'Aaron Nola', 'Zack Wheeler', 'Jake Arrieta', 'Zach Eflin', 'Vince Velasquez', 'Other'},
-         'Pittsburgh Pirates',
-         'San Diego Padres',
-         'San Francisco Giants',
+         'Pittsburgh Pirates':{'Trevor Williams', 'Chris Archer', 'Mitch Keller', 'Steven Brault', 'Other'},
+         'San Diego Padres':{'Chris Paddack', 'Garrett Richards', 'Zach Davies', 'Dinelson Lamet', 'Joey Lucchesi', 'Other'},
+         'San Francisco Giants':{'Johnny Cueto', 'Jeff Samardzija', 'Kevin Gausman', 'Drew Smyly', 'Other'},
          'Seattle Mariners':{'Marco Gonzales', 'Yusei Kikuchi', 'Kendall Graveman', 'Justus Sheffield', 'Justin Dunn', 'Other'},
-         'St. Louis Cardinals',
+         'St. Louis Cardinals':{'Jack Flaherty', 'Dakota Hudson', 'Miles Mikolas', 'Adam Wainwright', 'Other'},
          'Tampa Bay Rays': {'Blake Snell', 'Tyler Glasnow', 'Charlie Morton', 'Ryan Yarbrough', 'Yonny Chirinos', 'Other'},
          'Texas Rangers':{'Mike Minor', 'Lance Lynn', 'Corey Kluber', 'Kyle Gibson', 'Jordan Lyles', 'Other'},
          'Toronto Blue Jays': {'Hyun-Jin Ryu', 'Tanner Roark', 'Matt Shoemaker', 'Chase Anderson', 'Shun Yamaguchi', 'Other'},
-         'Washington Nationals'{'Max Scherzer', 'Stephen Strasburg', 'Patrick Corbin', 'Anibal Sanchez' , 'Other'}}
-brewers_hitters={'Omar Narvaez', 'Manny Pina', 'Justin Smoak', 'Ryan Braun', 'Keston Hiura', 'Orlando Arcia', 'Eric Sogard', 'Jedd Gyorko', 'Avisail Garcia', 'Lorenzo Cain', 'Christian Yelich', 'Ben Gamel', 'Luis Urias', 'Brandon Woodruff', 'Adrian Houser', 'Brett Anderson', 'Josh Lindblom', 'Eric Lauer', 'Other'}
-brewers_pitchers={'Brandon Woodruff', 'Adrian Houser', 'Brett Anderson', 'Josh Lindblom', 'Eric Lauer', 'Other'}
-cardinals_hitters={'Yadier Molina', 'Paul Goldschmidt', 'Kolten Wong', 'Paul DeJong', 'Matt Carpenter', 'Tommy Edman', 'Dexter Fowler', 'Harrison Bader', 'Lane Thomas', 'Dylan Carlson', "Tyler O'Neill", 'Andrew Knizner', 'Justin Williams', 'Jack Flaherty', 'Dakota Hudson', 'Miles Mikolas', 'Adam Wainwright', 'Other'}
-cardinals_pitchers={'Jack Flaherty', 'Dakota Hudson', 'Miles Mikolas', 'Adam Wainwright', 'Other'}
-cubs_hitters={'Victor Caratini', 'Willson Conteras', 'Anthony Rizzo', 'David Bote', 'Nico Hoerner', 'Javier Baez', 'Kris Bryant', 'Jason Heyward', 'Kyle Schwarber', 'Daniel Descalso', 'Albert Almora Jr.', 'Ian Happ', 'Robel Garcia', 'Yu Darvish', 'Kyle Hendricks', 'Jon Lester', 'Jose Quintana', 'Other'}
-cubs_pitchers={'Yu Darvish', 'Kyle Hendricks', 'Jon Lester', 'Jose Quintana', 'Other'}
-pirates_hitters={'Jacob Stallings', 'Luke Maile', 'Josh Bell', 'Adam Frazier', 'Kevin Newman', 'Cole Tucker', 'Colin Moran', 'Erik Gonzalez', 'Bryan reynolds', 'Gregory Polanco', 'Guillermo Heredia', 'Jason Martin', 'Jose Osuna', 'Joe Musgrove', 'Trevor Williams', 'Chris Archer', 'Mitch Keller', 'Steven Brault', 'Other'}
-pirates_pitchers={'Trevor Williams', 'Chris Archer', 'Mitch Keller', 'Steven Brault', 'Other'}
-reds_hitters={'Tucker Barnhart', 'Curt Casali', 'Joey Votto', 'Mike Moustakas', 'Freddy Galvis', 'Eugenio Suarez', 'Kyle Farmer', 'Nick Castellanos', 'Shogo Akiyama', 'Alex Blandino', 'Aristides Aquino', 'Nick Senzel', 'Jesse Winker', 'Michael Lorenzen', 'Luis Castillo', 'Sonny Gray', 'Trevor Bauer', 'Anthony DeSclafani', 'Wade Miley', 'Other'}
-reds_pitchers={'Luis Castillo', 'Sonny Gray', 'Trevor Bauer', 'Anthony DeSclafani', 'Wade Miley', 'Other'}
-diamondbacks_hitters={'Carson Kelly', 'Stephen Vogt', 'Christian Walker', 'Jake Lamb', 'Ketel Marte', 'Eduardo Escobar', 'Nick Ahmed', 'David Peralta', 'Kole Calhoun', 'Josh Rojas', 'Andy Young', 'Kevin Cron', 'Ildemaro Vargas', 'Madison Bumgarner', 'Robbie Ray', 'Mike Leake', 'Luke Weaver', 'Zac Gallen', 'Other'}
-diamondbacks_pitchers={'Madison Bumgarner', 'Robbie Ray', 'Mike Leake', 'Luke Weaver', 'Zac Gallen', 'Other'}
-dodgers_hitters={'Mookie Betts', 'Will Smith', 'Enrique Hernandez', 'Max Muncy', 'Gavin Lux', 'Corey Seager', 'Justin Turner', 'Austin Barnes', 'Cody Bellinger', 'Joc Pederson', 'A.J. Pollock', 'Chris Taylor', 'Kyle Garlick', 'Walker Buehler', 'Clayton Kershaw', 'Alex Wood', 'Jimmy Nelson', 'Julio Urias', 'Ross Stripling', 'Other'}
-dodgers_pitchers={'Walker Buehler', 'Clayton Kershaw', 'Alex Wood', 'Jimmy Nelson', 'Julio Urias', 'Ross Stripling', 'David Price', 'Other'}
-giants_hitters={'Buster Posey', 'Aramis Garcia', 'Brandon Belt', 'Mauricio Dubon', 'Brandon Crawford', 'Evan Longoria', 'Mike Yastremski', 'Alex Dickerson', 'Steven Duggar', 'Jaylin Davis', 'Chris Shaw', 'Kean Wong', 'Donovan Solano', 'Johnny Cueto', 'Jeff Samardzija', 'Kevin Gausman', 'Drew Smyly', 'Other'}
-giants_pitchers={'Johnny Cueto', 'Jeff Samardzija', 'Kevin Gausman', 'Drew Smyly', 'Other'}
-padres_hitters={'Francisco Mejia', 'Austin Hedges', 'Eric Hosmer', 'Jurickson Profar', 'Fernando Tatis Jr.', 'Manny Machado', 'Tommy Pham', 'Wil Myers', 'Trent Grisham', 'Manuel Margot', 'Josh Naylor', 'Jake Cronenworth', 'Ty France', 'Chris Paddack', 'Garrett Richards', 'Zach Davies', 'Dinelson Lamet', 'Joey Lucchesi', 'Other'}
-padres_pitchers={'Chris Paddack', 'Garrett Richards', 'Zach Davies', 'Dinelson Lamet', 'Joey Lucchesi', 'Other'}
-rockies_hitters={'Tony Wolters', 'Daniel Murphy', 'Ryan McMahon', 'Garret Hampson', 'Trevor Story', 'Nolan Arenado', 'Brendan Rodgers', 'Chris Owings', 'Raimel Tapia', 'David Dahl', 'Charlie Blackmon', 'Ian Desmond', 'Sam Hilliard', 'German Marquez', 'Jon Gray', 'Kyle Freeland', 'Antonio Senzatela', 'Other'}
-rockies_pitchers={'German Marquez', 'Jon Gray', 'Kyle Freeland', 'Antonio Senzatela', 'Other'}
+         'Washington Nationals':{'Max Scherzer', 'Stephen Strasburg', 'Patrick Corbin', 'Anibal Sanchez' , 'Other'}}
+
+
+
+
+
+
+
+
 popupMenu = OptionMenu(mainframe, tkvar1, *MLBteams1)
 Label(mainframe, text="Road Team:").grid(row = 0, column = 0)
 popupMenu.grid(row = 0, column =1)
