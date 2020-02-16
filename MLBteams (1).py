@@ -93,13 +93,8 @@ hitters={'Arizona Diamondbacks':{'Carson Kelly', 'Stephen Vogt', 'Christian Walk
          'Washington Nationals':{'Kurt Suzuki', 'Yan Gomes', 'Eric Thames', 'Howie Kendrick', 'Ryan Zimmerman', 'Starlin Castro', 'Trea Turner', 'Asdrubal Cabrera', 'Juan Soto', 'Victor robles', 'Adam Eaton', 'Michael Taylor', 'Carter Kieboom', 'Max Scherzer', 'Stephen Strasburg', 'Patrick Corbin', 'Anibal Sanchez' , 'Other'}}
 pitchers={'Arizona Diamondbacks':{'Madison Bumgarner', 'Robbie Ray', 'Mike Leake', 'Luke Weaver', 'Zac Gallen', 'Other'},
          'Atlanta Braves':{'Mike Soroka', 'Mike Foltynewicz', 'Max Fried', 'Cole Hamels', 'Other'},
-<<<<<<< HEAD
          'Baltimore Orioles':{'John Means', 'Alex Cobb', 'Kohl Stewart', 'Asher Wojciechowski', 'Keegan Akin', 'Other'},
          'Boston Red Sox':{'Chris Sale', 'Eduardo Rodriguez', 'Nathan Eovaldi', 'Martin Perez', 'Other'},
-=======
-         'Baltimore Orioles': {'John Means', 'Alex Cobb', 'Kohl Stewart', 'Asher Wojciechowski', 'Keegan Akin', 'Other'},
-         'Boston Red Sox': {'Chris Sale', 'Eduardo Rodriguez', 'Nathan Eovaldi', 'Martin Perez', 'Other'},
->>>>>>> fb45d5f9df6e5de1890e62f3d7084a9d5de895ea
          'Chicago Cubs':{'Yu Darvish', 'Kyle Hendricks', 'Jon Lester', 'Jose Quintana', 'Other'},
          'Chicago White Sox':{'Lucas Giolito', 'Dallas Keuchel', 'Gio Gonzalez', 'Dylan Cease', 'Reynaldo Lopez', 'Other'},
          'Cincinnati Reds':{'Luis Castillo', 'Sonny Gray', 'Trevor Bauer', 'Anthony DeSclafani', 'Wade Miley', 'Other'},
@@ -126,19 +121,8 @@ pitchers={'Arizona Diamondbacks':{'Madison Bumgarner', 'Robbie Ray', 'Mike Leake
          'Texas Rangers':{'Mike Minor', 'Lance Lynn', 'Corey Kluber', 'Kyle Gibson', 'Jordan Lyles', 'Other'},
          'Toronto Blue Jays': {'Hyun-Jin Ryu', 'Tanner Roark', 'Matt Shoemaker', 'Chase Anderson', 'Shun Yamaguchi', 'Other'},
          'Washington Nationals':{'Max Scherzer', 'Stephen Strasburg', 'Patrick Corbin', 'Anibal Sanchez' , 'Other'}}
-<<<<<<< HEAD
+
 popupMenu = OptionMenu(mainframe, tkvar1, *MLBteams1, command=change)
-=======
-
-
-
-
-
-
-
-
-popupMenu = OptionMenu(mainframe, tkvar1, *MLBteams1)
->>>>>>> fb45d5f9df6e5de1890e62f3d7084a9d5de895ea
 Label(mainframe, text="Road Team:").grid(row = 0, column = 0)
 popupMenu.grid(row = 0, column =1)
 Label(mainframe, text="Home Team:").grid(row=0, column=2)
@@ -199,14 +183,7 @@ c=Button(mainframe,text="Calculate Percentage", command=calculate_percentage)
 b.grid(row=11, column=1)
 c.grid(row=11, column=3)
 
-<<<<<<< HEAD
-=======
 
-    
-
- 
-
->>>>>>> fb45d5f9df6e5de1890e62f3d7084a9d5de895ea
 # on change dropdown value
 def stuff():
 # link function to change dropdown
