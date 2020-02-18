@@ -3,11 +3,23 @@ from tkinter import *
 root = Tk()
 root.title("MLB Prediction program")
 
+<<<<<<< HEAD
 def get_players():
     pass
+=======
+teams=['Arizona Diamondbacks', 'Atlanta Braves', 'Baltimore Orioles', 'Boston Red Sox', 'Chicago Cubs', 'Chicago White Sox', 'Cincinnati Reds', 'Cleveland Indians', 'Colorado Rockies', 'Detroit Tigers', 'Houston Astros', 'Kansas City Royals',
+       'Los Angeles Angels', 'Los Angeles Dodgers', 'Miami Marlins', 'Milwaukee Brewers', 'Minnesota Twins', 'New York Mets', 'New York Yankees', 'Oakland Athletics', 'Philadelphia Phillies', 'Pittsburgh Pirates', 'San Diego Padres', 'San Francisco Giants',
+       'Seattle Mariners', 'St. Louis Cardinals', 'Tampa Bay Rays', 'Texas Rangers', 'Toronto Blue Jays', 'Washington Nationals']
+picking=True
+def get_players():
+    global picking
+    picking=False
+    hitters_list1=hitters[tkvar1.get()]
+    pitchers_list1=pitchers[tkvar1.get()]
+
+>>>>>>> parent of 2c87779... did update team thing
 def calculate_percentage():
     root.title(100)
-    
 # Add a grid
 mainframe = Frame(root)
 mainframe.grid(column=0,row=0, sticky=(N,W,E,S) )
@@ -40,78 +52,14 @@ tkvar20=StringVar(root)
 tkvar21 = StringVar(root)
 tkvar22=StringVar(root)
 
-def set_up_road(null="arg"):
+def change(null_arg):
+    print("changing")
     hitters_list1=hitters[tkvar1.get()]
     pitchers_list1=pitchers[tkvar1.get()]
-    try:
-        batter1roadteam.destroy()
-        batter2roadteam.destroy()
-        batter3roadteam.destroy()
-        batter4roadteam.destroy()
-        batter5roadteam.destroy()
-        batter6roadteam.destroy()
-        batter7roadteam.destroy()
-        batter8roadteam.destroy()
-        batter9roadteam.destroy()
-        primarypitcherroadteam.destory()
-    except:
-        pass
-    batter1roadteam=OptionMenu(mainframe,tkvar3,*hitters_list1)
-    batter1roadteam.grid(row=1, column=1)
-    batter2roadteam=OptionMenu(mainframe,tkvar4,*hitters_list1)
-    batter2roadteam.grid(row=2, column=1)
-    batter3roadteam=OptionMenu(mainframe,tkvar5,*hitters_list1)
-    batter3roadteam.grid(row=3, column=1)
-    batter4roadteam=OptionMenu(mainframe,tkvar6,*hitters_list1)
-    batter4roadteam.grid(row=4, column=1)
-    batter5roadteam=OptionMenu(mainframe,tkvar7,*hitters_list1)
-    batter5roadteam.grid(row=5, column=1)
-    batter6roadteam=OptionMenu(mainframe,tkvar8,*hitters_list1)
-    batter6roadteam.grid(row=6, column=1)
-    batter7roadteam=OptionMenu(mainframe,tkvar9,*hitters_list1)
-    batter7roadteam.grid(row=7, column=1)
-    batter8roadteam=OptionMenu(mainframe,tkvar10,*hitters_list1)
-    batter8roadteam.grid(row=8, column=1)
-    batter9roadteam=OptionMenu(mainframe,tkvar11,*hitters_list1)
-    batter9roadteam.grid(row=9, column=1)
-    primarypitcherroadteam=OptionMenu(mainframe,tkvar12,*pitchers_list1)
-    primarypitcherroadteam.grid(row=10, column=1)
-def set_up_home(null="arg"):
     hitters_list2=hitters[tkvar2.get()]
     pitchers_list2=pitchers[tkvar2.get()]
-    try:
-        batter1hometeam.destory()
-        batter2hometeam.destory()
-        batter3hometeam.destory()
-        batter4hometeam.destory()
-        batter5hometeam.destory()
-        batter6hometeam.destory()
-        batter7hometeam.destory()
-        batter8hometeam.destory()
-        batter9hometeam.destory()
-        primarypitcherhometeam.destroy()
-    except:
-        pass
-    batter1hometeam=OptionMenu(mainframe,tkvar13,*hitters_list2)
-    batter1hometeam.grid(row=1, column=3)
-    batter2hometeam=OptionMenu(mainframe,tkvar14,*hitters_list2)
-    batter2hometeam.grid(row=2, column=3)
-    batter3hometeam=OptionMenu(mainframe,tkvar15,*hitters_list2)
-    batter3hometeam.grid(row=3, column=3)
-    batter4hometeam=OptionMenu(mainframe,tkvar16,*hitters_list2)
-    batter4hometeam.grid(row=4, column=3)
-    batter5hometeam=OptionMenu(mainframe,tkvar17,*hitters_list2)
-    batter5hometeam.grid(row=5, column=3)
-    batter6hometeam=OptionMenu(mainframe,tkvar18,*hitters_list2)
-    batter6hometeam.grid(row=6, column=3)
-    batter7hometeam=OptionMenu(mainframe,tkvar19,*hitters_list2)
-    batter7hometeam.grid(row=7, column=3)
-    batter8hometeam=OptionMenu(mainframe,tkvar20,*hitters_list2)
-    batter8hometeam.grid(row=8, column=3)
-    batter9hometeam=OptionMenu(mainframe,tkvar21,*hitters_list2)
-    batter9hometeam.grid(row=9, column=3)
-    primarypitcherhometeam=OptionMenu(mainframe,tkvar22,*pitchers_list2)
-    primarypitcherhometeam.grid(row=10, column=3)
+
+
 
 # Dictionary with options
 MLBteams1 = {'Arizona Diamondbacks', 'Atlanta Braves', 'Baltimore Orioles', 'Boston Red Sox', 'Chicago Cubs', 'Chicago White Sox', 'Cincinnati Reds', 'Cleveland Indians', 'Colorado Rockies', 'Detroit Tigers', 'Houston Astros', 'Kansas City Royals', 'Los Angeles Angels', 'Los Angeles Dodgers', 'Miami Marlins', 'Milwaukee Brewers', 'Minnesota Twins', 'New York Mets', 'New York Yankees', 'Oakland Athletics', 'Philadelphia Phillies', 'Pittsburgh Pirates', 'San Diego Padres', 'San Francisco Giants', 'Seattle Mariners', 'St. Louis Cardinals', 'Tampa Bay Rays', 'Texas Rangers', 'Toronto Blue Jays', 'Washington Nationals'}
@@ -179,18 +127,68 @@ pitchers={'Arizona Diamondbacks':{'Madison Bumgarner', 'Robbie Ray', 'Mike Leake
          'Toronto Blue Jays': {'Hyun-Jin Ryu', 'Tanner Roark', 'Matt Shoemaker', 'Chase Anderson', 'Shun Yamaguchi', 'Other'},
          'Washington Nationals':{'Max Scherzer', 'Stephen Strasburg', 'Patrick Corbin', 'Anibal Sanchez' , 'Other'}}
 
-popupMenu = OptionMenu(mainframe, tkvar1, *MLBteams1, command=set_up_road)
+popupMenu = OptionMenu(mainframe, tkvar1, *MLBteams1, command=change)
 Label(mainframe, text="Road Team:").grid(row = 0, column = 0)
 popupMenu.grid(row = 0, column =1)
 Label(mainframe, text="Home Team:").grid(row=0, column=2)
-popupMenu2=OptionMenu(mainframe,tkvar2,*MLBteams2, command=set_up_home)
+popupMenu2=OptionMenu(mainframe,tkvar2,*MLBteams2)
 popupMenu2.grid(row=0, column=3)
 Label(mainframe,text="Lineups:").grid(row=1, column=0)
 Label(mainframe,text="Primary Pitcherz").grid(row=10, column=0)
 
+<<<<<<< HEAD
 set_up_home()
 set_up_road()
 
+=======
+hitters_list1=hitters[tkvar1.get()]
+pitchers_list1=pitchers[tkvar1.get()]
+
+hitters_list2=hitters[tkvar2.get()]
+pitchers_list2=pitchers[tkvar2.get()]
+
+#def set_up_1():
+batter1roadteam=OptionMenu(mainframe,tkvar3,hitters_list1)
+batter1roadteam.grid(row=1, column=1)
+batter2roadteam=OptionMenu(mainframe,tkvar4,hitters_list1)
+batter2roadteam.grid(row=2, column=1)
+batter3roadteam=OptionMenu(mainframe,tkvar5,hitters_list1)
+batter3roadteam.grid(row=3, column=1)
+batter4roadteam=OptionMenu(mainframe,tkvar6,hitters_list1)
+batter4roadteam.grid(row=4, column=1)
+batter5roadteam=OptionMenu(mainframe,tkvar7,hitters_list1)
+batter5roadteam.grid(row=5, column=1)
+batter6roadteam=OptionMenu(mainframe,tkvar8,hitters_list1)
+batter6roadteam.grid(row=6, column=1)
+batter7roadteam=OptionMenu(mainframe,tkvar9,hitters_list1)
+batter7roadteam.grid(row=7, column=1)
+batter8roadteam=OptionMenu(mainframe,tkvar10,hitters_list1)
+batter8roadteam.grid(row=8, column=1)
+batter9roadteam=OptionMenu(mainframe,tkvar11,hitters_list1)
+batter9roadteam.grid(row=9, column=1)
+primarypitcherroadteam=OptionMenu(mainframe,tkvar12,pitchers_list1)
+primarypitcherroadteam.grid(row=10, column=1)
+batter1hometeam=OptionMenu(mainframe,tkvar13,hitters_list2)
+batter1hometeam.grid(row=1, column=3)
+batter2hometeam=OptionMenu(mainframe,tkvar14,hitters_list2)
+batter2hometeam.grid(row=2, column=3)
+batter3hometeam=OptionMenu(mainframe,tkvar15,hitters_list2)
+batter3hometeam.grid(row=3, column=3)
+batter4hometeam=OptionMenu(mainframe,tkvar16,hitters_list2)
+batter4hometeam.grid(row=4, column=3)
+batter5hometeam=OptionMenu(mainframe,tkvar17,hitters_list2)
+batter5hometeam.grid(row=5, column=3)
+batter6hometeam=OptionMenu(mainframe,tkvar18,hitters_list2)
+batter6hometeam.grid(row=6, column=3)
+batter7hometeam=OptionMenu(mainframe,tkvar19,hitters_list2)
+batter7hometeam.grid(row=7, column=3)
+batter8hometeam=OptionMenu(mainframe,tkvar20,hitters_list2)
+batter8hometeam.grid(row=8, column=3)
+batter9hometeam=OptionMenu(mainframe,tkvar21,hitters_list2)
+batter9hometeam.grid(row=9, column=3)
+primarypitcherhometeam=OptionMenu(mainframe,tkvar22,pitchers_list2)
+primarypitcherhometeam.grid(row=10, column=3)
+>>>>>>> parent of 2c87779... did update team thing
 b=Button(mainframe,text="Check Teams Selected", command=get_players)
 c=Button(mainframe,text="Calculate Percentage", command=calculate_percentage)
 b.grid(row=11, column=1)
